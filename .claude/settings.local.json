@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npm create vite@latest classroom-booking -- --template react)",
+      "PowerShell(npm install date-fns lucide-react)",
+      "PowerShell(mkdir src\\\\components src\\\\hooks src\\\\context src\\\\data src\\\\utils src\\\\pages src\\\\styles)",
+      "PowerShell(mkdir src/components)",
+      "PowerShell(mkdir src/hooks)",
+      "PowerShell(mkdir src/context)",
+      "PowerShell(mkdir src/data)",
+      "PowerShell(mkdir src/utils)",
+      "PowerShell(mkdir src/pages)",
+      "PowerShell(mkdir src/styles)",
+      "PowerShell(npm install react-toastify date-fns lucide-react)",
+      "PowerShell(npm run dev)",
+      "PowerShell(Stop-Process -Name \"node\" -Force -ErrorAction SilentlyContinue)",
+      "PowerShell(npm install react-router-dom)",
+      "PowerShell(npm run dev 2>&1)"
+    ]
+  }
+}
