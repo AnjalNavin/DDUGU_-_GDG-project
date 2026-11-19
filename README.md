@@ -190,9 +190,7 @@ backend\.venv\Scripts\python -m pytest backend/tests -v
 
 ---
 
-## 9. Live Demonstration Checklist
-
-Use this 15-step sequence during the hackathon presentation:
+## 9. Live Demonstration Checklist:
 
 1. [ ] **Admin Login**: Sign in as Administrator (`admin@ddgu.edu`).
 2. [ ] **Faculty Management**: Go to **Admin Panel** → View list of 51+ university faculty members.
